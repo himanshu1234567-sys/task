@@ -1,0 +1,12 @@
+/* src/app/globals.css */
+
+/* Import Tailwind CSS base styles */
+@tailwind base;
+
+/* Import Tailwind CSS components */
+@tailwind components;
+
+/* Import Tailwind CSS utilities */
+@tailwind utilities;
+
+/* Import Google Fonts */
